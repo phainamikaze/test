@@ -1,6 +1,10 @@
 <?php
 function aa(){
-	echo ;
+	echo $a;
+	
+}
+function bb(){
+	echo $a;
 	
 }
 ?>
